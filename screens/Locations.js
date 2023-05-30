@@ -82,7 +82,7 @@ function Locations({navigation}) {
     const saveLocation = (pos)=>{
          Alert.alert(
             "Location",
-            "Pobrano pozycję\nCzy chcesz ją zapsiać?",
+            "Pobrano pozycję\nCzy chcesz ją zapisać?",
             [
                 {
                     text:"Tak",
@@ -138,7 +138,7 @@ function Locations({navigation}) {
     const delData = () =>{
         Alert.alert(
             "Delete",
-            "Czy chcesz usunąć ?",
+            "Czy chcesz usunąć?",
             [
                 {
                     text:"Tak",

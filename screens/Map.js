@@ -47,7 +47,7 @@ function Map({navigation, route})
                             latitude: location.coords.latitude,
                             longitude: location.coords.longitude
                         }}
-                        title={"Twoja pinezkal"}
+                        title={"Twoja pinezka"}
                         description={`Date: ${(new Date(location.timestamp)).toLocaleString()}`}
                         pinColor={'red'}
                         key={location.timestamp.toString()}
