@@ -1,15 +1,15 @@
 {
-    "darkPrimary":"#009688",
+    "darkPrimary":"#5a189a",
     "lightPrimary":"#B2DFDB",
-    "primary":"#009688",
+    "primary":"#5a189a",
     "text":"#FFFFFF",
-    "accent":"#00BCD4",
+    "accent":"#240046",
     "primaryText":"#212121",
     "secondary":"#757575",
-    "devider":"#BDBDBD",
+    "devider":"#e0aaff",
     "switch":"#F0F4C3",
-    "switchNo":"#BDBDBD",
+    "switchNo":"#e0aaff",
     "switchDot":"#CDDC39",
     "switchDotNo":"white",
-    "loading":"#00BCD4"
+    "loading":"#240046"
 }

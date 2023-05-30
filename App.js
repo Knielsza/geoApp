@@ -40,7 +40,7 @@ export default function App() {
 
 const globalOptions = {
   headerStyle: {
-  backgroundColor: "#00cc66",
+  backgroundColor: "#e0aaff",
 
  },
  headerTintColor: "black",

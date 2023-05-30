@@ -105,7 +105,7 @@ function Locations({navigation}) {
     }
 
     const getLocation = async ()=>{
-        setLoading(true)
+        // setLoading(true)
         try
         {
             let pos = await Location.getCurrentPositionAsync({})
@@ -210,7 +210,7 @@ const style = StyleSheet.create({
     },
     content:{
         flex:1,
-        backgroundColor:"lightgreen",
+        backgroundColor:"#c77dff",
         padding:15,
     },
     buttonView:{
@@ -230,8 +230,8 @@ const style = StyleSheet.create({
         borderRadius:15,
         padding:10,
         textAlign:"center",
-        backgroundColor:"#00cc66",
-        color:"black",
+        backgroundColor:"#5a189a",
+        color:"white",
         flexDirection:'column',
         justifyContent:"center",
         alignItems:"center",

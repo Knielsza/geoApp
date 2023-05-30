@@ -64,7 +64,7 @@ function Map({navigation, route})
 
 
     const getLocation = async ()=>{
-        return await Location.getCurrentPositionAsync({})
+        return Location.getCurrentPositionAsync({})
     }
 
     return(

@@ -38,7 +38,7 @@ const style = StyleSheet.create({
         flex: 1,
         justifyContent:"center",
         alignItems:"center",
-        backgroundColor: "lightgreen",
+        backgroundColor: "#c77dff",
         gap:50
     },
     content:{
@@ -51,7 +51,6 @@ const style = StyleSheet.create({
         textAlign:"center",
         color: "white",
         borderWidth:  6,  
-        borderStyle:  'dashed',
         borderRadius: 30,
         padding: 10
     },
